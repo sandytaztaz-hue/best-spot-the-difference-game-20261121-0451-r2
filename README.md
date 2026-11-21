@@ -1,8 +1,8 @@
 # Lantern Garden — Spot the Difference
 
-[![make.fun](https://make.fun/badge/best-spot-the-difference-game-20261121-0451/sandytaztaz-hue/best-spot-the-difference-game-20261121-0451-r2/entry.svg)](https://make.fun/bounty/best-spot-the-difference-game-20261121-0451)
-[![make.fun](https://make.fun/badge/best-spot-the-difference-game-20261121-0451/sandytaztaz-hue/best-spot-the-difference-game-20261121-0451-r2/rate.svg)](https://make.fun/bounty/best-spot-the-difference-game-20261121-0451)
-[![make.fun](https://make.fun/badge/best-spot-the-difference-game-20261121-0451/sandytaztaz-hue/best-spot-the-difference-game-20261121-0451-r2/place.svg)](https://make.fun/bounty/best-spot-the-difference-game-20261121-0451)
+[![make.fun · best-spot-the-difference-game-20261121-0451](https://make.fun/badge/best-spot-the-difference-game-20261121-0451.svg)](https://make.fun/bounty/best-spot-the-difference-game-20261121-0451?utm_source=github&utm_medium=readme&utm_campaign=best-spot-the-difference-game-20261121-0451)
+[![rank](https://make.fun/badge/best-spot-the-difference-game-20261121-0451/sandytaztaz-hue/best-spot-the-difference-game-20261121-0451-r2/rank.svg)](https://make.fun/bounty/best-spot-the-difference-game-20261121-0451/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-spot-the-difference-game-20261121-0451)
+[![reward](https://make.fun/badge/best-spot-the-difference-game-20261121-0451/sandytaztaz-hue/best-spot-the-difference-game-20261121-0451-r2/reward.svg)](https://make.fun/bounty/best-spot-the-difference-game-20261121-0451?utm_source=github&utm_medium=readme&utm_campaign=best-spot-the-difference-game-20261121-0451)
 
 A cozy night garden hides seven small changes. Two pictures hang side by side
 under paper lanterns — the left is the original garden, the right has 7 things
