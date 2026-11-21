@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lantern Garden — Spot the Difference</title>
+<style>
+  html, body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: #14121f;
+    min-height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Georgia, 'Times New Roman', serif;
+  }
+  #wrap { text-align: center; }
+  canvas {
+    display: block;
+    width: min(1280px, 100vw);
+    height: auto;
+    background: #14121f;
+    cursor: pointer;
+    image-rendering: auto;
+  }
+  #note {
+    color: #b9b3c9;
+    font-size: 13px;
+    margin: 8px 0 0;
+  }
+</style>
+</head>
+<body>
+<div id="wrap">
+  <canvas id="game" width="1280" height="720" aria-label="Lantern Garden spot the difference game"></canvas>
+  <p id="note">Lantern Garden — find 7 differences between the two pictures. Click, or Tab + Enter. No network needed; the whole game is in this page.</p>
+</div>
+<script type="module" src="./src/main.js"></script>
+</body>
+</html>
